@@ -1,0 +1,28 @@
+.goBackBtn {
+  margin-left: 22px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.87;
+  height: 50px;
+  margin-bottom: 24px;
+  padding: 4px 38px;
+  color: rgb(255, 69, 0);
+  background-color: rgb(0, 0, 128);
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+}
+.goBackBtn:hover,
+.goBackBtn:focus {
+  color: rgb(255, 69, 0);
+  background-color: rgb(135, 206, 250);
+}
+.currentMovieWrapper {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  padding-bottom: 25px;
+  width: 80%;
+  background-color: rgb(23, 33, 43);
+  border-radius: 15px;
+}

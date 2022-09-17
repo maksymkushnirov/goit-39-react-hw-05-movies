@@ -1,0 +1,28 @@
+.castItem {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  background: rgb(23, 33, 43);
+  border-radius: 15px;
+  box-sizing: border-box;
+  overflow: hidden;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.castDescription {
+  text-align: center;
+  color: rgb(255, 69, 0);
+  font-size: 20px;
+  background-color: rgb(0, 0, 128);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.castName {
+  margin-bottom: 10px;
+}
+
+.castImg {
+  width: 100%;
+}

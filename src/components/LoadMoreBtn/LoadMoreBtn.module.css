@@ -1,0 +1,20 @@
+.loadMoreBtn {
+  position: relative;
+  left: 50%;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.87;
+  height: 50px;
+  padding: 4px 38px;
+  color: rgb(255, 69, 0);
+  background-color: rgb(0, 0, 128);
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+}
+
+.loadMoreBtn:hover,
+.loadMoreBtn:focus {
+  color: rgb(255, 69, 0);
+  background-color: rgb(135, 206, 250);
+}
